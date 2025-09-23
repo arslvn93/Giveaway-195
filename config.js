@@ -2,20 +2,20 @@ const config = {
   "meta": {
     "pageTitle": "Win Wine Fest & Jazz Night for Two – $200 Toronto Experience!",
     "navBrandLogoText": "Veronika Zykova",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Romantic Wine & Jazz Night</span> for Two in Toronto!",
-    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Torontoa perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
+    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Toronto\u001fa perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tgj6bch0d9rmc0csch8s09gdrg.jpg",
     "promotionDates": "Enter between October 1st and October 29th, 2025. Winner drawn October 30th!",
     "endDate": "2025-10-30T23:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Wine & Jazz Night Out Toronto",
-    "successModalHeaderText": "You9re Officially Entered!",
-    "successModalMainMessage": "Youre in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! Well select one winner on October 30th. If you win, youll get an email right away. Good luck!",
-    "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th dont miss your chance."
+    "successModalHeaderText": "You\u00199re Officially Entered!",
+    "successModalMainMessage": "You\u0019re in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you\u0019ll get an email right away. Good luck!",
+    "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th\u0019 don\u0019t miss your chance."
   },
   "settings": {
     "confettiColors": [
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "",
-    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "Youre Officially Entered!",
-    "mainMessage": "Youre in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! Well select one winner on October 30th. If you win, youll get an email right away. Good luck!",
-    "socialPromptText": "Tell a friend! And check your inbox on October 30th dont miss your chance."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -83,7 +77,7 @@ const config = {
     "name": "Wine & Jazz Date Night Experience",
     "value": "$200 Value",
     "description": "Imagine a special weekend for you and someone you love. Experience the Toronto Wine Festival on Saturday night, tasting the best wines the city offers. The night before, enjoy a reserved table for two and the smooth sounds of Jay Douglas, a three-time Juno Award nominee, at the beautiful Old Mill Toronto. This is your chance to enjoy music, wine, and connection in one unforgettable weekend.",
-    "limitedTimeOfferText": "Only one lucky winner! Dont miss your chance.",
+    "limitedTimeOfferText": "Only one lucky winner! Don\u0019t miss your chance.",
     "ctaButtonText": "I Want This Night Out!"
   },
   "howToEnter": {
@@ -91,7 +85,7 @@ const config = {
       {
         "icon": "fas fa-edit",
         "title": "Fill In Your Details",
-        "description": "Complete the simple entry form below with your name and emailit takes just 30 seconds."
+        "description": "Complete the simple entry form below with your name and email\u0019it takes just 30 seconds."
       },
       {
         "icon": "fas fa-heart",
@@ -125,47 +119,9 @@ const config = {
         "icon": "fas fa-random",
         "text": "Winner chosen at random"
       }
-    ],
-    "fairSelectionInfo": {
-      "title": "Fair and Square Drawing",
-      "text": "One lucky winner will be picked at random from all valid entries. Every entry has a fair chancegood luck!"
-    },
-    "importantNotice": {
-      "title": "Winner Will Be Notified by Email",
-      "text": "Well contact the winner by email on October 30th. Watch your inbox (and spam) so you dont miss out!"
-    },
-    "faq": [
-      {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone age 40+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
-      },
-      {
-        "q": "Do I have to be part of a couple?",
-        "a": "Nowith two tickets and a reserved table, you can bring anyonea friend, your sibling, or your partner!"
-      },
-      {
-        "q": "What are the event dates?",
-        "a": "Jazz concert is on Friday night, October 31, 2025. The Toronto Wine Festival is on Saturday night, November 1, 2025. Please check your calendar before entering."
-      },
-      {
-        "q": "Is there any cost to enter?",
-        "a": "Entry is 100% free. All event costs are covered by the giveaway."
-      },
-      {
-        "q": "How will the winner be chosen?",
-        "a": "A random draw from all completed entries. Well notify the winner by email on October 30th."
-      }
-    ],
-    "tips": [
-      "Double-check your email for accuracy",
-      "Add veronika@property.ca to your contacts so you dont miss the winner email",
-      "Share with friends so they can enter too (but only one winner!)",
-      "Follow @veronikatherealtor on Instagram and Facebook for updates"
     ]
   },
   "rules": {
-    "finePrintText": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter this giveaway?",
@@ -173,7 +129,7 @@ const config = {
       },
       {
         "q": "Do I have to be part of a couple?",
-        "a": "Nowith two tickets and a reserved table, you can bring anyonea friend, your sibling, or your partner!"
+        "a": "No\u0019with two tickets and a reserved table, you can bring anyone\u0019a friend, your sibling, or your partner!"
       },
       {
         "q": "What are the event dates?",
@@ -185,22 +141,24 @@ const config = {
       },
       {
         "q": "How will the winner be chosen?",
-        "a": "A random draw from all completed entries. Well notify the winner by email on October 30th."
+        "a": "A random draw from all completed entries. We\u0019ll notify the winner by email on October 30th."
       }
     ],
     "tips": [
       "Double-check your email for accuracy",
-      "Add veronika@property.ca to your contacts so you dont miss the winner email",
+      "Add veronika@property.ca to your contacts so you don\u0019t miss the winner email",
       "Share with friends so they can enter too (but only one winner!)",
       "Follow @veronikatherealtor on Instagram and Facebook for updates"
     ],
+    "finePrintText": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Square Drawing",
-      "text": "One lucky winner will be picked at random from all valid entries. Every entry has a fair chancegood luck!"
+      "text": "One lucky winner will be picked at random from all valid entries. Every entry has a fair chance\u0019good luck!"
     },
     "importantNotice": {
       "title": "Winner Will Be Notified by Email",
-      "text": "Well contact the winner by email on October 30th. Watch your inbox (and spam) so you dont miss out!"
+      "text": "We\u0019ll contact the winner by email on October 30th. Watch your inbox (and spam) so you don\u0019t miss out!"
     }
   },
   "entryForm": {
@@ -209,51 +167,111 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-195.netlify.app&text=Win%20Wine%20Fest%20%26%20Jazz%20Night%20for%20Two%20%E2%80%93%20%24200%20Toronto%20Experience!"
     },
     "subtitle": "Enter your details for this chance at a $200 wine and jazz date night!",
-    "entryCountText": "Many jazz and wine lovers have already entereddont miss out!",
+    "entryCountText": "Many jazz and wine lovers have already entered\u0019don\u0019t miss out!",
     "socialSharePrompt": "Know another jazz or wine fan? Share this page with them!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1",
+      "id": "q_auto_1758648472743_0",
       "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
-        { "value": "Weekly", "text": "Weekly" },
-        { "value": "Monthly", "text": "Monthly" },
-        { "value": "Rarely", "text": "Rarely" },
-        { "value": "Never", "text": "Never" }
+        {
+          "value": "Weekly",
+          "text": "Weekly"
+        },
+        {
+          "value": "Monthly",
+          "text": "Monthly"
+        },
+        {
+          "value": "Rarely",
+          "text": "Rarely"
+        },
+        {
+          "value": "Never",
+          "text": "Never"
+        }
       ]
     },
     {
-      "id": "q_auto_2",
+      "id": "q_auto_1758648472743_1",
       "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
-        { "value": "Niagara-on-the-Lake", "text": "Niagara-on-the-Lake" },
-        { "value": "Sonoma", "text": "Sonoma" },
-        { "value": "Bordeaux", "text": "Bordeaux" },
-        { "value": "Local festivals", "text": "I prefer discovering local wine festivals" }
+        {
+          "value": "Niagara-on-the-Lake",
+          "text": "Niagara-on-the-Lake"
+        },
+        {
+          "value": "Sonoma",
+          "text": "Sonoma"
+        },
+        {
+          "value": "Bordeaux",
+          "text": "Bordeaux"
+        },
+        {
+          "value": "I prefer discovering local wine festivals",
+          "text": "I prefer discovering local wine festivals"
+        }
       ]
     },
     {
-      "id": "q_auto_3",
+      "id": "q_auto_1758648472743_2",
       "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
-        { "value": "Elegant restaurants", "text": "Elegant restaurants" },
-        { "value": "Live music venues", "text": "Live music venues" },
-        { "value": "Cozy wine bars", "text": "Cozy wine bars" },
-        { "value": "Friends' gatherings at home", "text": "Friends' gatherings at home" }
+        {
+          "value": "Elegant restaurants",
+          "text": "Elegant restaurants"
+        },
+        {
+          "value": "Live music venues",
+          "text": "Live music venues"
+        },
+        {
+          "value": "Cozy wine bars",
+          "text": "Cozy wine bars"
+        },
+        {
+          "value": "Friends' gatherings at home",
+          "text": "Friends' gatherings at home"
+        }
       ]
     },
     {
-      "id": "q_auto_4",
+      "id": "q_auto_1758648472743_3",
       "questionText": "How do you typically make your weekend plans?",
       "options": [
-        { "value": "Spontaneously decide on the day", "text": "Spontaneously decide on the day" },
-        { "value": "Plan a week ahead to secure reservations", "text": "Plan a week ahead to secure reservations" },
-        { "value": "Follow friends' recommendations", "text": "Follow friends' recommendations" },
-        { "value": "Prefer stay-at-home weekends", "text": "Prefer stay-at-home weekends" }
+        {
+          "value": "Spontaneously decide on the day",
+          "text": "Spontaneously decide on the day"
+        },
+        {
+          "value": "Plan a week ahead to secure reservations",
+          "text": "Plan a week ahead to secure reservations"
+        },
+        {
+          "value": "Follow friends' recommendations",
+          "text": "Follow friends' recommendations"
+        },
+        {
+          "value": "Prefer stay-at-home weekends",
+          "text": "Prefer stay-at-home weekends"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You\u0019re Officially Entered!",
+    "mainMessage": "You\u0019re in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you\u0019ll get an email right away. Good luck!",
+    "socialPromptText": "Tell a friend! And check your inbox on October 30th\u0019 don\u0019t miss your chance."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/VeronikaRealEstate",
@@ -266,12 +284,12 @@ const config = {
       "email": "veronika@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://iili.io/Kcu5xN2.webp",
+    "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Veronika Zykova",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Property.ca Inc. Brokerage",
+    "address": "36 Distillery Lane, Suite 500 Toronto ON, M5A 3C4",
     "email": "veronika@property.ca",
     "phone": "6473884686",
     "copyrightOwner": "Veronika Zykova"
