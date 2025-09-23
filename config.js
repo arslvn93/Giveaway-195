@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758648472743_0",
+      "id": "q_auto_1758669291250_0",
       "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758648472743_1",
+      "id": "q_auto_1758669291250_1",
       "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758648472743_2",
+      "id": "q_auto_1758669291250_2",
       "questionText": "When planning a special evening out, which venues do you prefer?",
       "options": [
         {
@@ -238,7 +238,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758648472743_3",
+      "id": "q_auto_1758669291250_3",
       "questionText": "How do you typically make your weekend plans?",
       "options": [
         {
@@ -284,7 +284,7 @@ const config = {
       "email": "veronika@property.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
-    "organizerLogoUrl": "https://iili.io/Kcu5xN2.webp",
+    "organizerLogoUrl": "https://iili.io/KcXEbdN.webp",
     "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Veronika Zykova",
