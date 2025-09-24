@@ -172,90 +172,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758732740750_0",
-      "questionText": "How often do you treat yourself to cultural events like concerts, theater performances, or art shows?",
+      "id": "q_auto_1758739353019_0",
+      "questionText": "What do you like the most about your current home?\",\n      \"options\": [\n        {\n          \"value\": \"The location\",\n          \"text\": \"The location\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"The layout\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"The finishes (paint, lighting, etc.)\"\n        },\n        {\n          \"value\": \"The outdoor space\",\n          \"text\": \"The outdoor space\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_1\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"Yes, sometime in 2025\",\n          \"text\": \"Yes, sometime in 2025\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"Yes, in the next 1 - 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"Not at the moment\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm not sure yet\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_2\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"\",\n          \"text\": \"I rent and am interested in buying\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I own and might sell within 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"I own and am happy where I am\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm actively looking to buy or sell now\"",
       "options": [
         {
-          "value": "Weekly",
-          "text": "Weekly"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Rarely",
-          "text": "Rarely"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Never",
-          "text": "Never"
+          "value": "I'm not sure yet",
+          "text": "I'm not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1758732740750_1",
-      "questionText": "Which of the following wine regions have you visited or are interested in visiting?",
+      "id": "q_auto_1758739353019_1",
+      "questionText": "What's your current housing situation?",
       "options": [
         {
-          "value": "Niagara-on-the-Lake",
-          "text": "Niagara-on-the-Lake"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Sonoma",
-          "text": "Sonoma"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Bordeaux",
-          "text": "Bordeaux"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "I prefer discovering local wine festivals",
-          "text": "I prefer discovering local wine festivals"
+          "value": "I'm actively looking to buy or sell now",
+          "text": "I'm actively looking to buy or sell now"
         }
       ]
     },
     {
-      "id": "q_auto_1758732740750_2",
-      "questionText": "When planning a special evening out, which venues do you prefer?",
+      "id": "q_auto_1758739353019_2",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Elegant restaurants",
-          "text": "Elegant restaurants"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Live music venues",
-          "text": "Live music venues"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
-          "value": "Cozy wine bars",
-          "text": "Cozy wine bars"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Friends' gatherings at home",
-          "text": "Friends' gatherings at home"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1758732740750_3",
-      "questionText": "How do you typically make your weekend plans?",
-      "options": [
-        {
-          "value": "Spontaneously decide on the day",
-          "text": "Spontaneously decide on the day"
-        },
-        {
-          "value": "Plan a week ahead to secure reservations",
-          "text": "Plan a week ahead to secure reservations"
-        },
-        {
-          "value": "Follow friends' recommendations",
-          "text": "Follow friends' recommendations"
-        },
-        {
-          "value": "Prefer stay-at-home weekends",
-          "text": "Prefer stay-at-home weekends"
+          "value": "I'm not sure yet",
+          "text": "I'm not sure yet"
         }
       ]
     }
