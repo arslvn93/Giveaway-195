@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Wine & Jazz Night Out Toronto",
     "successModalHeaderText": "You\u00199re Officially Entered!",
-    "successModalMainMessage": "You're in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you'll get an email right away. Good luck!",
+    "successModalMainMessage": "You're in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We'll select one winner on October 30th. If you win, you'll get an email right away. Good luck!",
     "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th - don't miss your chance."
   },
   "settings": {
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758826692847_0",
+      "id": "q_auto_1758826759101_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758826692847_1",
+      "id": "q_auto_1758826759101_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758826692847_2",
+      "id": "q_auto_1758826759101_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -246,9 +246,9 @@ const config = {
       "tiktok": ""
     },
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You\u0019re Officially Entered!",
-    "mainMessage": "You\u0019re in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you\u0019ll get an email right away. Good luck!",
-    "socialPromptText": "Tell a friend! And check your inbox on October 30th\u0019 don\u0019t miss your chance."
+    "headerText": "You're Officially Entered!",
+    "mainMessage": "You're in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We'll select one winner on October 30th. If you win, you'll get an email right away. Good luck!",
+    "socialPromptText": "Tell a friend! And check your inbox on October 30th - don't miss your chance."
   },
   "footerContact": {
     "social": {
