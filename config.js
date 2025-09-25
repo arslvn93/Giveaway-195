@@ -14,8 +14,8 @@ const config = {
     "entryFormCtaText": "Enter My Name Now!",
     "name": "Wine & Jazz Night Out Toronto",
     "successModalHeaderText": "You\u00199re Officially Entered!",
-    "successModalMainMessage": "You\u0019re in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you\u0019ll get an email right away. Good luck!",
-    "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th\u0019 don\u0019t miss your chance."
+    "successModalMainMessage": "You're in the draw for the <strong>Wine & Jazz Toronto Experience</strong>! We\u0019ll select one winner on October 30th. If you win, you'll get an email right away. Good luck!",
+    "successModalEmailPrompt": "Tell a friend! And check your inbox on October 30th - don't miss your chance."
   },
   "settings": {
     "confettiColors": [
@@ -167,13 +167,13 @@ const config = {
       "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-195.netlify.app&text=Win%20Wine%20Fest%20%26%20Jazz%20Night%20for%20Two%20%E2%80%93%20%24200%20Toronto%20Experience!"
     },
     "subtitle": "Enter your details for this chance at a $200 wine and jazz date night!",
-    "entryCountText": "Many jazz and wine lovers have already entered\u0019don\u0019t miss out!",
+    "entryCountText": "Many jazz and wine lovers have already entered - don't miss out!",
     "socialSharePrompt": "Know another jazz or wine fan? Share this page with them!"
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758826587833_0",
-      "questionText": "What do you like the most about your current home?\",\n      \"options\": [\n        {\n          \"value\": \"The location\",\n          \"text\": \"The location\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"The layout\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"The finishes (paint, lighting, etc.)\"\n        },\n        {\n          \"value\": \"The outdoor space\",\n          \"text\": \"The outdoor space\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_1\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"Yes, sometime in 2025\",\n          \"text\": \"Yes, sometime in 2025\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"Yes, in the next 1 - 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"Not at the moment\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm not sure yet\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_2\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"\",\n          \"text\": \"I rent and am interested in buying\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I own and might sell within 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"I own and am happy where I am\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm actively looking to buy or sell now\"",
+      "id": "q_auto_1758826692847_0",
+      "questionText": "What do you like the most about your current home",
       "options": [
         {
           "value": "The location",
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758826587834_1",
+      "id": "q_auto_1758826692847_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758826587834_2",
+      "id": "q_auto_1758826692847_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
