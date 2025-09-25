@@ -6,7 +6,7 @@ const config = {
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>Romantic Wine & Jazz Night</span> for Two in Toronto!",
-    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Toronto\u001fa perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
+    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Toronto, a perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tgj6bch0d9rmc0csch8s09gdrg.jpg",
     "promotionDates": "Enter between October 1st and October 29th, 2025. Winner drawn October 30th!",
     "endDate": "2025-10-30T23:59:00.000Z",
@@ -77,7 +77,7 @@ const config = {
     "name": "Wine & Jazz Date Night Experience",
     "value": "$200 Value",
     "description": "Imagine a special weekend for you and someone you love. Experience the Toronto Wine Festival on Saturday night, tasting the best wines the city offers. The night before, enjoy a reserved table for two and the smooth sounds of Jay Douglas, a three-time Juno Award nominee, at the beautiful Old Mill Toronto. This is your chance to enjoy music, wine, and connection in one unforgettable weekend.",
-    "limitedTimeOfferText": "Only one lucky winner! Don\u0019t miss your chance.",
+    "limitedTimeOfferText": "Only one lucky winner! Don't miss your chance.",
     "ctaButtonText": "I Want This Night Out!"
   },
   "howToEnter": {
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758739353019_0",
+      "id": "q_auto_1758826587833_0",
       "questionText": "What do you like the most about your current home?\",\n      \"options\": [\n        {\n          \"value\": \"The location\",\n          \"text\": \"The location\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"The layout\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"The finishes (paint, lighting, etc.)\"\n        },\n        {\n          \"value\": \"The outdoor space\",\n          \"text\": \"The outdoor space\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_1\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"Yes, sometime in 2025\",\n          \"text\": \"Yes, sometime in 2025\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"Yes, in the next 1 - 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"Not at the moment\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm not sure yet\"\n        }\n      ]\n    },\n    {\n      \"id\": \"q_auto_1757969005264_2\",\n      \"questionText\": \"\",\n      \"options\": [\n        {\n          \"value\": \"\",\n          \"text\": \"I rent and am interested in buying\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I own and might sell within 2 years\"\n        },\n        {\n          \"value\": \",\n          \"text\": \"I own and am happy where I am\"\n        },\n        {\n          \"value\": \"\",\n          \"text\": \"I'm actively looking to buy or sell now\"",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758739353019_1",
+      "id": "q_auto_1758826587834_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758739353019_2",
+      "id": "q_auto_1758826587834_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
