@@ -28,7 +28,7 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "#FFEE58",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/JI4C3eb6HixK6JZmbp8x/webhook-trigger/KeF0e4R6sb5xOXZa7GOt",
-    "facebookPixelId": "1057475448873422",
+    "facebookPixelId": "1167552198570751",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758827437291_0",
+      "id": "q_auto_1758888971046_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758827437291_1",
+      "id": "q_auto_1758888971046_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758827437291_2",
+      "id": "q_auto_1758888971046_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -277,6 +277,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-195",
     "netlifyUrl": "http://Giveaway-195.netlify.app",
     "netlifyId": "",
-    "tag": "Wine & Jazz Night Out Toronto"
+    "tag": "Wine & Jazz Night Giveaway"
   }
 };
