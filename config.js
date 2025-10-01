@@ -129,7 +129,7 @@ const config = {
       },
       {
         "q": "Do I have to be part of a couple?",
-        "a": "No. With two tickets and a reserved table, you can bring anyone\u0019a friend, your sibling, or your partner!"
+        "a": "No. With two tickets and a reserved table, you can bring anyone:\u0019a friend, your sibling, or your partner!"
       },
       {
         "q": "What are the event dates?",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759344408622_0",
+      "id": "q_auto_1759344503856_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759344408622_1",
+      "id": "q_auto_1759344503856_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759344408622_2",
+      "id": "q_auto_1759344503856_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
