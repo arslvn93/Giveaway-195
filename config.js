@@ -125,7 +125,7 @@ const config = {
     "faq": [
       {
         "q": "Who can enter this giveaway?",
-        "a": "Anyone age 19+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
+        "a": "Anyone age 19+ who loves jazz and wine and can attend in Toronto on both days is encouraged to enter. Share this with a friend!"
       },
       {
         "q": "Do I have to be part of a couple?",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759344127955_0",
+      "id": "q_auto_1759344253678_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759344127955_1",
+      "id": "q_auto_1759344253678_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759344127955_2",
+      "id": "q_auto_1759344253678_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
