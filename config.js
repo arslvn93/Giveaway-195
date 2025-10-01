@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win Wine Fest & Jazz Night for Two – $200 Toronto Experience!",
+    "pageTitle": "Win a Romantic Wine & Jazz Weekend for Two in Toronto!",
     "navBrandLogoText": "Veronika Zykova",
     "privacyPolicyLink": "https://property.ca/privacy"
   },
   "giveaway": {
-    "heroHeadline": "Win a <span class='highlight'>Romantic Wine & Jazz Night</span> for Two in Toronto!",
-    "heroSubheadline": "Enter now for your chance to enjoy the Toronto Wine Festival and a jazz concert with Jay Douglas at Old Mill Toronto, a perfect $200 night out for couples or friends. Limited entries. Draw ends October 30th!",
+    "heroHeadline": "Win a Romantic Wine & Jazz Weekend for Two in Toronto!",
+    "heroSubheadline": "Enter now for your chance to enjoy a jazz concert with Jay Douglas at Old Mill Toronto and the Toronto Wine Festival at Exhibition Place — a $200 two-day experience for couples or friends. Limited entries. Draw ends October 29th!",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/tgj6bch0d9rmc0csch8s09gdrg.jpg",
     "promotionDates": "Enter between October 1st and October 29th, 2025. Winner drawn October 30th!",
     "endDate": "2025-10-30T23:59:00.000Z",
@@ -125,7 +125,7 @@ const config = {
     "faq": [
       {
         "q": "Who can enter this giveaway?",
-        "a": "Anyone age 40+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
+        "a": "Anyone age 19+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
       },
       {
         "q": "Do I have to be part of a couple?",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1758888971046_0",
+      "id": "q_auto_1759338292494_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758888971046_1",
+      "id": "q_auto_1759338292494_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1758888971046_2",
+      "id": "q_auto_1759338292494_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
