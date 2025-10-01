@@ -124,24 +124,28 @@ const config = {
   "rules": {
     "faq": [
       {
+        "q": "How will the winner be chosen?",
+        "a": "One lucky winner will be selected at random from all valid entries. Every entry has an equal chance — good luck! 🍀"
+      },
+      {
+        "q": "How will I know if I’ve won?",
+        "a": "The winner will be contacted by email on October 30, 2025. Be sure to check your inbox (and your spam folder) so you don’t miss out!"
+      },
+      {
         "q": "Who can enter this giveaway?",
-        "a": "Anyone age 19+ who loves jazz and wine and can attend in Toronto on both event nights is encouraged to enter. Share this with a friend!"
+        "a": "Anyone 19+ who loves jazz and wine and can attend both events in Toronto is welcome to enter. Share it with a friend — maybe they’ll join you!"
       },
       {
-        "q": "Do I have to be part of a couple?",
-        "a": "No\u0019with two tickets and a reserved table, you can bring anyone\u0019a friend, your sibling, or your partner!"
+        "q": "Do I have to be part of a couple to enter?",
+        "a": "Not at all! You’ll receive two tickets and a reserved table, so you can bring a partner, a friend, or even a family member."
       },
       {
-        "q": "What are the event dates?",
-        "a": "Jazz concert is on Friday night, October 31, 2025. The Toronto Wine Festival is on Saturday night, November 1, 2025. Please check your calendar before entering."
+        "q": "When are the events?",
+        "a": "Jazz Night: Friday, November 21, 2025 at 6:00 PM — Reserved table for two at Old Mill Toronto with live jazz by Jay Douglas.\n\nWine Festival: Saturday, November 22, 2025 from 1:00–4:00 PM at Exhibition Place — unlimited tastings, international wines, and fun seminars."
       },
       {
         "q": "Is there any cost to enter?",
-        "a": "Entry is 100% free. All event costs are covered by the giveaway."
-      },
-      {
-        "q": "How will the winner be chosen?",
-        "a": "A random draw from all completed entries. We\u0019ll notify the winner by email on October 30th."
+        "a": "Nope! Entry is 100% free, and all event costs are covered by the giveaway."
       }
     ],
     "tips": [
@@ -172,7 +176,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759340837306_0",
+      "id": "q_auto_1759341196439_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +198,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759340837306_1",
+      "id": "q_auto_1759341196439_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +220,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759340837306_2",
+      "id": "q_auto_1759341196439_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
