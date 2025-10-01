@@ -55,18 +55,22 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-wine-glass-alt",
-        "text": "Reserved table for 2 at Old Mill Toronto Jazz Night (Friday, Nov 21 @ 6 PM)"
-      },
-      {
-        "icon": "fas fa-music",
         "text": "Two tickets to the Toronto Wine Festival (Saturday, Nov 22 @ 1 PM)"
       },
       {
+        "icon": "fas fa-music",
+        "text": "Reserved table for two at Old Mill Toronto Jazz Night (Friday, Nov 21 @ 6 PM)"
+      },
+      {
         "icon": "fas fa-star",
-        "text": "A full weekend of live music, wine, and unforgettable experiences"
+        "text": "Live jazz performance by Jay Douglas, three-time Juno Award nominee"
       },
       {
         "icon": "fas fa-heart",
+        "text": "Perfect experience for couples or friends"
+      },
+      {
+        "icon": "fas fa-gift",
         "text": "$200 total value — completely free"
       }
     ],
@@ -168,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759338609397_0",
+      "id": "q_auto_1759338774913_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -190,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338609397_1",
+      "id": "q_auto_1759338774913_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -212,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338609397_2",
+      "id": "q_auto_1759338774913_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
