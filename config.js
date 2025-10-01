@@ -133,7 +133,7 @@ const config = {
       },
       {
         "q": "What are the event dates?",
-        "a": "Jazz concert is on Friday night, October 31, 2025. The Toronto Wine Festival is on Saturday night, November 1, 2025. Please check your calendar before entering."
+        "a": "Jazz Night: Friday, November 21, 2025 at 6:00 PM — Reserved table for two at Old Mill Toronto with live jazz by Jay Douglas.\n\nWine Festival: Saturday, November 22, 2025 from 1:00–4:00 PM at Exhibition Place — unlimited tastings, international wines, and fun seminars."
       },
       {
         "q": "Is there any cost to enter?",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759341432463_0",
+      "id": "q_auto_1759342167533_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759341432463_1",
+      "id": "q_auto_1759342167533_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759341432463_2",
+      "id": "q_auto_1759342167533_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
