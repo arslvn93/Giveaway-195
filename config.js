@@ -76,7 +76,7 @@ const config = {
     ],
     "name": "Wine & Jazz Date Night Experience",
     "value": "$200 Value",
-    "description": "On Friday, November 21, 2025 at 6:00 PM, you and a guest will enjoy a reserved table at the historic Old Mill Toronto, where you’ll take in the smooth sounds of Jay Douglas, a three-time Juno Award nominee. The intimate setting and world-class live jazz make for the perfect start to your weekend.\n\nThen, on Saturday, November 22, 2025 at 1:00 PM, the celebration continues at the Toronto Wine Festival at Exhibition Place. Sip your way through an incredible selection of wines with all-you-can-taste access — no tokens required. Sample drinks from around the world 🌍, discover new favourites, and enjoy educational seminars where you can taste, learn, and repeat! 🍷📚\n\nThis two-day prize is the perfect mix of music, wine, and connection — ideal for couples, friends, or family who want to create lasting memories together.",
+    "description": "On Friday, November 21, 2025 at 6:00 PM, you and a guest will enjoy a reserved table at the historic Old Mill Toronto, where you’ll take in the smooth sounds of Jay Douglas, a three-time Juno Award nominee. The intimate setting and world-class live jazz make for the perfect start to your weekend.\n\nThen, on Saturday, November 22, 2025 at 1:00 PM, the celebration continues at the Toronto Wine Festival at Exhibition Place. Sip your way through an incredible selection of wines with all-you-can-taste access — no tokens required. Sample drinks from around the world , discover new favourites, and enjoy educational seminars where you can taste, learn, and repeat! \n\nThis two-day prize is the perfect mix of music, wine, and connection — ideal for couples, friends, or family who want to create lasting memories together.",
     "limitedTimeOfferText": "Only one lucky winner! Don't miss your chance.",
     "ctaButtonText": "I Want This Night Out!"
   },
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759338936085_0",
+      "id": "q_auto_1759340797668_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338936085_1",
+      "id": "q_auto_1759340797668_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338936085_2",
+      "id": "q_auto_1759340797668_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
