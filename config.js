@@ -133,7 +133,7 @@ const config = {
       },
       {
         "q": "What are the event dates?",
-        "a": "Jazz Night: Friday, November 21, 2025 at 6:00 PM — Reserved table for two at Old Mill Toronto with live jazz by Jay Douglas.\n\nWine Festival: Saturday, November 22, 2025 from 1:00–4:00 PM at Exhibition Place — unlimited tastings, international wines, and fun seminars."
+        "a": "The giveaway includes a reserved table for two at Old Mill Toronto on Friday, November 21, 2025, at 6:00 PM to enjoy live jazz by Jay Douglas. The experience continues on Saturday, November 22, 2025, from 1:00 to 4:00 PM at the Toronto Wine Festival at Exhibition Place, featuring unlimited tastings, wines from around the world, and engaging educational seminars."
       },
       {
         "q": "Is there any cost to enter?",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759342167533_0",
+      "id": "q_auto_1759342298966_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759342167533_1",
+      "id": "q_auto_1759342298966_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759342167533_2",
+      "id": "q_auto_1759342298966_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
