@@ -76,7 +76,7 @@ const config = {
     ],
     "name": "Wine & Jazz Date Night Experience",
     "value": "$200 Value",
-    "description": "Imagine a special weekend for you and someone you love. Experience the Toronto Wine Festival on Saturday night, tasting the best wines the city offers. The night before, enjoy a reserved table for two and the smooth sounds of Jay Douglas, a three-time Juno Award nominee, at the beautiful Old Mill Toronto. This is your chance to enjoy music, wine, and connection in one unforgettable weekend.",
+    "description": "Your unforgettable weekend includes:\n\nFriday, Nov 21, 2025 @ 6:00 PM → Reserved table for two at Old Mill Toronto to enjoy Jay Douglas, three-time Juno Award nominee.\n\nSaturday, Nov 22, 2025 @ 1:00 PM → Two passes to the Toronto Wine Festival at Exhibition Place, featuring:\n\nAll-you-can-taste wines, no tokens required 🍷\n\nDrinks from around the world 🌍\n\nEducational seminars — taste, learn, repeat! 📚\n\nThis prize is perfect for couples, friends, or family who love music, wine, and making memories.",
     "limitedTimeOfferText": "Only one lucky winner! Don't miss your chance.",
     "ctaButtonText": "I Want This Night Out!"
   },
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759338292494_0",
+      "id": "q_auto_1759338341836_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338292494_1",
+      "id": "q_auto_1759338341836_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338292494_2",
+      "id": "q_auto_1759338341836_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
