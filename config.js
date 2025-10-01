@@ -55,28 +55,24 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-wine-glass-alt",
-        "text": "Two tickets to Toronto Wine Festival (Saturday night)"
+        "text": "Reserved table for 2 at Old Mill Toronto Jazz Night (Friday, Nov 21 @ 6 PM)"
       },
       {
         "icon": "fas fa-music",
-        "text": "Reserved table for two at Old Mill Toronto jazz concert (Friday night)"
+        "text": "Two tickets to the Toronto Wine Festival (Saturday, Nov 22 @ 1 PM)"
       },
       {
         "icon": "fas fa-star",
-        "text": "Live jazz by Jay Douglas, three-time Juno nominee"
+        "text": "A full weekend of live music, wine, and unforgettable experiences"
       },
       {
         "icon": "fas fa-heart",
-        "text": "Perfect for couples, friends, or family"
-      },
-      {
-        "icon": "fas fa-gift",
-        "text": "$200 total value experience included free"
+        "text": "$200 total value — completely free"
       }
     ],
     "name": "Wine & Jazz Date Night Experience",
     "value": "$200 Value",
-    "description": "Your unforgettable weekend includes:\n\nFriday, Nov 21, 2025 @ 6:00 PM → Reserved table for two at Old Mill Toronto to enjoy Jay Douglas, three-time Juno Award nominee.\n\nSaturday, Nov 22, 2025 @ 1:00 PM → Two passes to the Toronto Wine Festival at Exhibition Place, featuring:\n\nAll-you-can-taste wines, no tokens required 🍷\n\nDrinks from around the world 🌍\n\nEducational seminars — taste, learn, repeat! 📚\n\nThis prize is perfect for couples, friends, or family who love music, wine, and making memories.",
+    "description": "On Friday, November 21, 2025 at 6:00 PM, you and a guest will enjoy a reserved table at the historic Old Mill Toronto, where you’ll take in the smooth sounds of Jay Douglas, a three-time Juno Award nominee. The intimate setting and world-class live jazz make for the perfect start to your weekend.\n\nThen, on Saturday, November 22, 2025 at 1:00 PM, the celebration continues at the Toronto Wine Festival at Exhibition Place. Sip your way through an incredible selection of wines with all-you-can-taste access — no tokens required. Sample drinks from around the world 🌍, discover new favourites, and enjoy educational seminars where you can taste, learn, and repeat! 🍷📚\n\nThis two-day prize is the perfect mix of music, wine, and connection — ideal for couples, friends, or family who want to create lasting memories together.",
     "limitedTimeOfferText": "Only one lucky winner! Don't miss your chance.",
     "ctaButtonText": "I Want This Night Out!"
   },
@@ -172,7 +168,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759338341836_0",
+      "id": "q_auto_1759338609397_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +190,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338341836_1",
+      "id": "q_auto_1759338609397_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +212,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338341836_2",
+      "id": "q_auto_1759338609397_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
