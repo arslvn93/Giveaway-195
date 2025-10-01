@@ -150,7 +150,7 @@ const config = {
       "Share with friends so they can enter too (but only one winner!)",
       "Follow @veronikatherealtor on Instagram and Facebook for updates"
     ],
-    "finePrintText": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
+    "finePrintText": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 19+ Ontario resident.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Square Drawing",
@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759340797668_0",
+      "id": "q_auto_1759340836101_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759340797668_1",
+      "id": "q_auto_1759340836101_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759340797668_2",
+      "id": "q_auto_1759340836101_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
