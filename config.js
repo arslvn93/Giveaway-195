@@ -172,7 +172,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759338774913_0",
+      "id": "q_auto_1759338936085_0",
       "questionText": "What do you like the most about your current home",
       "options": [
         {
@@ -194,7 +194,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338774913_1",
+      "id": "q_auto_1759338936085_1",
       "questionText": "What's your current housing situation?",
       "options": [
         {
@@ -216,7 +216,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759338774913_2",
+      "id": "q_auto_1759338936085_2",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       "phone": "6473884686",
       "email": "veronika@property.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 18+ Ontario resident.",
+    "footerDisclaimer": "This giveaway is sponsored by Veronika Zykova, Real Estate. Not affiliated with Old Mill Toronto, Jay Douglas, or Toronto Wine Festival. Contest ends October 29th, 2025. Winner selected by random draw. Must be 19+ Ontario resident.",
     "organizerLogoUrl": "https://iili.io/Kl3iVgn.webp",
     "secondaryLogoUrl": "https://iili.io/Kcu5xN2.webp",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
